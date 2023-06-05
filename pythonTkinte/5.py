@@ -1,0 +1,11 @@
+from tkinter import *
+win = Tk()
+win.title("我的窗口")
+lb1= Label(win,text="您好",anchor="nw")
+lb1.pack()
+lb2 = Label(win,bitmap="warning")
+lb2.pack()
+bm = PhotoImage(file="/Users/wevilaguo/Desktop/oos.gif")
+lb3 = Label(win,image=bm)
+lb3.pack()
+win.mainloop()

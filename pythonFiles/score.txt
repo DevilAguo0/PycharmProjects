@@ -1,0 +1,5 @@
+{'Name': 'xiaoming', 'Chinese': 89, 'Math': 86, 'English': 90}
+{'Name': 'xiaohong', 'Chinese': 90, 'Math': 89, 'English': 87}
+{'Name': 'xiaohong', 'Chinese': 89, 'Math': 80, 'English': 95}
+{'Name': 'helo', 'Chinese': 34, 'Math': 56, 'English': 24}
+{'Name': 'kloie', 'Chinese': 90, 'Math': 58, 'English': 99}
